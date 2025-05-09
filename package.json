@@ -2,6 +2,7 @@
   "name": "my-todo-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://amir-6687.github.io/Todo-Liste-App",
   "type": "module",
   "scripts": {
     "dev": "vite",
